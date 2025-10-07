@@ -1,5 +1,5 @@
 body {
-  "backround-color": #191970
+  backround-color: #0080FF
   font-family: arial, "sans-serief"
 color: #FF0000
 }
@@ -8,13 +8,15 @@ color: #FF0000
   width: 300px;
   margin: 50px auto;
   padding: 20px;
-  background-color: white;
+  background-color: orane;
   border-radius: 15px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   text-align: center;
 }
 
 .kartu-profil img {
   width: 150px;
   border-radius: 50%;
+  display: block;
+  margin: 0
 }
